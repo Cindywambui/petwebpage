@@ -1,0 +1,37 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#FDEBD0;
+    margin:30px;
+    padding: 10px;
+    display: ruby;
+}
+h1{
+   font: 500% sans-serif;
+   background-position: center;
+   background-color:#FAD7A0;
+   color: #B9770E ;
+   text-align: center;
+}
+h2{
+    color:#B9770E;
+    font:200% sans-serif;
+}
+p{
+    font:150% serif;
+    color: #CA6F1E;
+    text-align: center;
+    background-position: center;
+    background-color:#FDF2E9;
+    line-height: 50px;
+}
+em{
+    font-style: initial;
+}
+li{
+    font-size: 20px;
+    color:#1F618D;
+    text-align: left;
+}
